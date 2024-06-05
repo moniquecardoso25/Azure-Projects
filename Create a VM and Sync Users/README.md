@@ -1,7 +1,7 @@
 # Project 1
 
 
-## Step 1: - Create a VM and install Activity Directory (domain)
+## Step 1: Create a VM and install Activity Directory (domain)
 
 ### 1. Create a resource group
 
