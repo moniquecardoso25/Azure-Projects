@@ -22,6 +22,16 @@
 
 ## Step 2: Configure an Azure global administrator account
 
+- On the Contoso41380144 resource menu, in Manage, select Users.
+- On the All users page, on the command bar, select New User, and then select Create new user.
 
+![image](https://github.com/moniquecardoso25/Azure-Projects/assets/140358716/412a76b5-688a-40ae-b98d-4386cd1fb2d3)
+
+
+![image](https://github.com/moniquecardoso25/Azure-Projects/assets/140358716/f109ee96-35aa-4e65-ab7f-c96a583dbbe1)
+
+- On the Properties page, in First name, enter Sync, and then in Last name, enter Admin.
 
 - 
+![image](https://github.com/moniquecardoso25/Azure-Projects/assets/140358716/982139b2-c41a-437e-b921-f8f5c9fc64d4)
+
